@@ -1,0 +1,11 @@
+/Users/gabrielgavrilov/Training/reactivities/Domain/bin/Debug/net9.0/Domain.deps.json
+/Users/gabrielgavrilov/Training/reactivities/Domain/bin/Debug/net9.0/Domain.dll
+/Users/gabrielgavrilov/Training/reactivities/Domain/bin/Debug/net9.0/Domain.pdb
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/Domain.AssemblyInfoInputs.cache
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/Domain.AssemblyInfo.cs
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/Domain.csproj.CoreCompileInputs.cache
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/Domain.dll
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/refint/Domain.dll
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/Domain.pdb
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/ref/Domain.dll
