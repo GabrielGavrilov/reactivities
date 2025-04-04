@@ -13,3 +13,4 @@
 /Users/gabrielgavrilov/Training/reactivities/Persistance/obj/Debug/net9.0/refint/Persistance.dll
 /Users/gabrielgavrilov/Training/reactivities/Persistance/obj/Debug/net9.0/Persistance.pdb
 /Users/gabrielgavrilov/Training/reactivities/Persistance/obj/Debug/net9.0/ref/Persistance.dll
+/Users/gabrielgavrilov/Training/reactivities/Persistance/obj/Debug/net9.0/Persistance.sourcelink.json

@@ -9,3 +9,4 @@
 /Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/refint/Domain.dll
 /Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/Domain.pdb
 /Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/ref/Domain.dll
+/Users/gabrielgavrilov/Training/reactivities/Domain/obj/Debug/net9.0/Domain.sourcelink.json

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6wq8zUDfJMI=",
+  "dgSpecHash": "OQC3uQIwU0I=",
   "success": true,
   "projectFilePath": "/Users/gabrielgavrilov/Training/reactivities/Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/gabrielgavrilov/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
+    "/Users/gabrielgavrilov/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
+    "/Users/gabrielgavrilov/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/gabrielgavrilov/.nuget/packages/microsoft.data.sqlite.core/9.0.0/microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
     "/Users/gabrielgavrilov/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "/Users/gabrielgavrilov/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0/microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
